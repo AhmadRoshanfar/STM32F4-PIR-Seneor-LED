@@ -1,0 +1,5 @@
+RemoteSystemsTempFiles
+.git
+.metadata
+pir-sensor/*
+!pir-sensor/Core/
